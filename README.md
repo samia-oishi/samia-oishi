@@ -1,4 +1,4 @@
-# Hi 👋 I'm Samia Alam Oishi
+<h1 alignt="center">Hi 👋 I'm Samia Alam Oishi</h1> 
 
 ### Junior Web Developer 
 
