@@ -1,13 +1,9 @@
 # Hi 👋 I'm Samia Alam Oishi
 
-### Junior Web Developer (Front-end Focused)
+### Junior Web Developer 
 
 <p align="center">
   <img src="./Bannergit.png" alt="Samia Alam Oishi Banner" width="100%" />
-</p>
-
-<p align="center">
-  <strong>Building Modern Web Applications with Javascript, MERN stack & Next.js</strong>
 </p>
 
 ---
