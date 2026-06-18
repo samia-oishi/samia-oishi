@@ -3,7 +3,7 @@
 ### Junior Web Developer (Front-end Focused)
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Samia Alam Oishi Banner" width="100%" />
+  <img src="./Bannergit.png" alt="Samia Alam Oishi Banner" width="100%" />
 </p>
 
 <p align="center">
