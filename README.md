@@ -1,10 +1,8 @@
-<h1 alignt="center">Hi 👋 I'm Samia Alam Oishi</h1> 
-
-### Junior Web Developer 
-
-<p align="center">
+<h1 align="center">
   <img src="./Bannergit.png" alt="Samia Alam Oishi Banner" width="100%" />
-</p>
+</h1>
+<h2 alignt="center">Hi 👋 I'm Samia Alam Oishi</h2> 
+<h3 alignt="center">Junior Web Developer</h3> 
 
 ---
 
@@ -77,15 +75,6 @@ My goal is to continuously improve my development skills and contribute to impac
 - Hostinger
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
 ⭐ Thank you for visiting my profile!
 </p>
