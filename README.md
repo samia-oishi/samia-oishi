@@ -14,7 +14,7 @@
 
 💼 LinkedIn: (https://www.linkedin.com/in/samia-alam-oishi/)
 
-🌐 Portfolio: (https://myportfolio-swart-alpha-83.vercel.app/)s
+🌐 Portfolio: (https://myportfolio-q716psslo-samia-alam-oishis-projects.vercel.app/)
 
 ---
 
